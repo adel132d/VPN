@@ -1,1 +1,10 @@
+# المكتبات الأساسية المدمجة مع بايثون (لا تحتاج تثبيت)
+sys
+os
+
+# مكتبات الطرف الثالث (يجب تثبيتها عبر pip)
+requests
+Pillow
+python-telegram-bot
+subprocess
 marshal
